@@ -1,15 +1,11 @@
 ### Hi there 👋 
 
-I'm Chi, I am a researcher at Dept of Biostatistics and Nutrition, University of Oslo. I'm working towards becoming Research Software Engineer. Previously I worked as R developer and statistician at the Norwegian Institute of Public Health.
+I'm Chi, I develop R things.
 
-🔭 I am currently working on [Data Apothecary's Notes](https://github.com/andreaczhang/data-apothecary-notes), NorEden, [CSIDS](https://github.com/csids), and a few small R projects.
-
-📫 How to reach me: send me a DM on twitter @Andreasheenn or follow me on @andreasheenn@fosstodon.org
-
-My personal website is https://andreaczhang.github.io
+🔭 Please check out my [personal website](https://chizapoth.github.io) to find out more!
 
 <!--
-**andreaczhang/andreaczhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chizapoth/chizapoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
